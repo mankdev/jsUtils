@@ -5,7 +5,7 @@
     "mankdev <tema@mankdev.name>"
   ],
   "description": "some JavaScript helpers",
-  "main": "utils.js",
+  "main": "src/utils.js",
   "license": "MIT",
   "ignore": [
     "**/.*",
