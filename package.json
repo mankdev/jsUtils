@@ -1,0 +1,11 @@
+{
+  "name": "jsUtils",
+  "version": "1.0.0",
+  "description": "small asset of JavaScript helpers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/karma/bin/karma start --single-run"
+  },
+  "author": "",
+  "license": "ISC"
+}

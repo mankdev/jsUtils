@@ -1,0 +1,17 @@
+{
+  "name": "jsUtils",
+  "version": "1.0.0",
+  "authors": [
+    "mankdev <tema@mankdev.name>"
+  ],
+  "description": "some JavaScript helpers",
+  "main": "utils.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
